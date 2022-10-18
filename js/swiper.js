@@ -1,11 +1,11 @@
-var swiper = new Swiper('.swiper-container-lovexhj1', {
-    pagination: '.swiper-pagination-lovexhj1',
+var swiper = new Swiper('.swiper-container-classhome1', {
+    pagination: '.swiper-pagination-classhome1',
     paginationClickable: true,
     spaceBetween: 30,
 });
 
-var swiper = new Swiper('.swiper-container-lovexhj2', {
-    pagination: '.swiper-pagination-lovexhj2',
+var swiper = new Swiper('.swiper-container-classhome2', {
+    pagination: '.swiper-pagination-classhome2',
     effect: 'coverflow',
     grabCursor: true,
     centeredSlides: true,
@@ -19,10 +19,10 @@ var swiper = new Swiper('.swiper-container-lovexhj2', {
     }
 });
 
-var swiper = new Swiper('.swiper-container-lovexhj3', {
-    pagination: '.swiper-pagination-lovexhj3',
+var swiper = new Swiper('.swiper-container-classhome3', {
+    pagination: '.swiper-pagination-classhome3',
     effect: 'flip',
     grabCursor: true,
-    nextButton: '.swiper-button-next-lovexhj3',
-    prevButton: '.swiper-button-prev-lovexhj3'
+    nextButton: '.swiper-button-next-classhome3',
+    prevButton: '.swiper-button-prev-classhome3'
 });
