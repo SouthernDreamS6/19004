@@ -8,11 +8,6 @@ new TypeIt("#titletext", {
     .delete(null, {
         delay: 500
     })
-    .type("翻页")
-    .pause(1500)
-    .delete(null, {
-        delay: 1000
-    })
     .type("我们的青春相册")
     .pause(3000)
     .go();
